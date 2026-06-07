@@ -18,3 +18,6 @@ Deteksi fraud di dunia nyata selalu dihantui oleh ketidakseimbangan data yang ek
 
 - **Step_2_Amount_Analysis/**
   Fase kedua mengungkap 'Anomali Zona Menengah'. Penipu sengaja membatasi nilai curian di level menengah ($100-$2000) untuk menghindari alarm otomatis bank. Berisi Boxplot interaktif dan SVG metodologi.
+
+- **Step_3_Advanced_Forensic/**
+  Babak final dari Fase 1. Sebuah investigasi forensik 3 dimensi yang sangat padat, menggabungkan analisis Kecepatan Serangan, Sidik Jari Digital, dan Pemetaan Hutan Isolasi (PCA) ke dalam satu dashboard multi-tab raksasa.

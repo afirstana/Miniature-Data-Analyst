@@ -18,3 +18,6 @@ Real-world fraud detection is plagued by extreme data imbalance. This capstone d
 
 - **Step_2_Amount_Analysis/**
   The second phase uncovers 'The Middle-Ground Anomaly'. Fraudsters intentionally cap their theft at medium amounts ($100-$2000) to evade hard-limit bank sensors. Contains interactive Boxplots and methodology SVGs.
+
+- **Step_3_Advanced_Forensic/**
+  The grand finale of Phase 1. A dense 3-dimensional forensic investigation combining Attack Velocity (Time Deltas), Digital Footprints (V-Feature KDEs), and The Isolation Forest (PCA 2D Mapping) into a single, comprehensive multi-tab dashboard.
